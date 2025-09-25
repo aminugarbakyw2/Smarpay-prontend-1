@@ -1,1 +1,1 @@
-package.jso
+package.json
