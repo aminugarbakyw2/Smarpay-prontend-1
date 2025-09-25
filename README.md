@@ -1,1 +1,1 @@
-SRC/index.js
+src/app.js
